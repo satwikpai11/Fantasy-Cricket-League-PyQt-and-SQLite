@@ -6,7 +6,7 @@ ui	 		    ->		py
 
 ————————————————————————————
  
-signup  		-> 	sing2in5
+signup  		-> 	sign2in5
  
 signup 	 	->	signupss1
 
@@ -17,3 +17,7 @@ teamName	 ->	teamName2
 open2see		->	open2see3
 
 evaluate		->	eval2
+
+
+
+Please download necessary tools to be able to run PyQt5 on your systems, and then run the 'sign2in5.py' file first.
